@@ -1,17 +1,17 @@
 export default {
   /** -------------------------------------------------以下必须修改----------------------------------------------------- */
 
-  githubName: "yunyuyuan",                                     // 必须修改，github账户名
+  githubName: "TerconJi",                                     // 必须修改，github账户名
 
 
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "yun yu yuan",                                        // 网站标题
-  nickName: "云与原",                                          // 昵称
-  domain: "https://blog.yunyuyuan.net",                        // rss域名
-  SEO_title: " - yunyuyuan blog",                              // 搜索引擎显示的标题
-  SEO_keywords: "yunyuyuan,yunyuyuan's blog,云与原,云与原的博客", // keywords meta header
+  title: "粒森音乐推荐博客",                                        // 网站标题
+  nickName: "Tercon",                                          // 昵称
+  domain: "https://lisenmusic.dnscool.cn",                        // rss域名
+  SEO_title: " - 粒森音乐推荐博客",                              // 搜索引擎显示的标题
+  SEO_keywords: "lisenmusic,tercon,粒森音乐,粒森音乐推荐博客", // keywords meta header
   MSClarityId: "",                                             // Microsoft的Clarity统计，https://clarity.microsoft.com/
   CloudflareAnalyze: "",                                       // cloudflare的统计，https://developers.cloudflare.com/analytics/web-analytics
   CommentRepoId: "",                                           // https://giscus.app/zh-CN
@@ -29,5 +29,5 @@ export default {
 
   /** -------------------------------------------------注意----------------------------------------------------- */
 
-  githubRepo: "nuxt3-blog"                                    // 需要与仓库名一致，如果fork时更改了仓库名，则这里也要改
+  githubRepo: "lisenmusic"                                    // 需要与仓库名一致，如果fork时更改了仓库名，则这里也要改
 };
